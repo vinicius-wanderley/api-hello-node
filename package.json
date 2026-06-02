@@ -1,0 +1,24 @@
+{
+  "name": "api-hello-node",
+  "version": "1.0.0",
+  "description": "Minha primeira API REST desenvolvida com Node.js e Express. Projeto em evolução constante.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-wanderley/api-hello-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinicius-wanderley/api-hello-node/issues"
+  },
+  "homepage": "https://github.com/vinicius-wanderley/api-hello-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
